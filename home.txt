@@ -1,1 +1,2 @@
 Adding first line on Branch2
+Testing merge conflicts with more code lines
