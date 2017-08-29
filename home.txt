@@ -4,3 +4,4 @@ Hello
 Hey
 rey
 Testing merge conflicts with more code lines
+Pushing the Bug_fix changes into the Remote repo
