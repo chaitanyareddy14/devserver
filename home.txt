@@ -1,1 +1,1 @@
-Adding First line on Branch1
+Adding first line on both Branch1 & Branch2
