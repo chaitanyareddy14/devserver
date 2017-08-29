@@ -1,1 +1,2 @@
 Adding first line on both Branch1 & Branch2
+Pushing the Bug_fix changes into the Remote repo
