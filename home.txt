@@ -1,2 +1,7 @@
 Adding first line on both Branch1 & Branch2
+Hi
+Hello
+Hey
+rey
+Testing merge conflicts with more code lines
 Pushing the Bug_fix changes into the Remote repo
